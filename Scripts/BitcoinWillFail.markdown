@@ -40,7 +40,36 @@ Move your money to a currency that can actually change the world. The way to pro
 The world won't be transacting in satoshis, bitcoin is bust.
 
 
-###Reading Script 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Reading Script 
 
 bitcoin has an artificially low transaction speed.
 

@@ -1,8 +1,8 @@
 ### Youtube Link ###
-Null
+n/a
 
 ### Title
-*Bitcoin will fail within 10 years*
+Bitcoin will fail within 10 years 
 
 ### Thumbnail
 ![Image](/Thumbnails/BitcoinWillFail.png)
@@ -22,7 +22,7 @@ the company that controls bitcoin is looking for profit.
 your bitcoin is supposed to offer p2p value transfer without centralization and fees.
 The ideals of the blockchain and the distributed ledger.
 
-with every passing year bitcoin strays further from its ideals. *1*
+*1* with every passing year bitcoin strays further from its ideals. 
 competition in mining pools leads to big players controlling more hash power.
 block size is supposed to increase as more users adopt its use.
 but bitcoin's blocksize has not been increased from its initial 1 mb, when it could be a tb by now.

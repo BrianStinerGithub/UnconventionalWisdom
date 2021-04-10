@@ -16,7 +16,8 @@ links
 
 ### Working Script
 
-** Brian standing and speaking into the camera. Upper third of body in frame.
+**Brian standing and speaking into the camera. Upper third of body in frame.**
+
 bitcoin has an artificially low transaction speed.
 the company that controls bitcoin is looking for profit.
 your bitcoin is supposed to offer p2p value transfer without centralization and fees.

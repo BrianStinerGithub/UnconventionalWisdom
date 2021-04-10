@@ -1,22 +1,22 @@
-###Youtube Link###
+### Youtube Link ###
 Null
 
-###Title###
+### Title
 *Bitcoin will fail within 10 years*
 
-###Thumbnail###
+### Thumbnail
 ![Image](/Thumbnails/BitcoinWillFail.png)
 
-###Music###
+### Music
 links
 
-###Sources###
+### Sources
 *1* https://Thisisareference.com/specific_article_or_evidence
 
 
-###Working Script###
+### Working Script
 
-**Brian standing and speaking into the camera. Upper third of body in frame.**
+** Brian standing and speaking into the camera. Upper third of body in frame.
 bitcoin has an artificially low transaction speed.
 the company that controls bitcoin is looking for profit.
 your bitcoin is supposed to offer p2p value transfer without centralization and fees.
@@ -39,7 +39,7 @@ Move your money to a currency that can actually change the world. The way to pro
 The world won't be transacting in satoshis, bitcoin is bust.
 
 
-###Reading Script###
+###Reading Script 
 
 bitcoin has an artificially low transaction speed.
 

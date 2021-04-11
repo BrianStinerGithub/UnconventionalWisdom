@@ -16,8 +16,9 @@ links
 ### Working Script
 
 **Brian standing and speaking into the camera. Upper third of body in frame. Speaking with authority**
-If your clicked you probably have some bitcoin, and you're suspicious about its future.
-Congratulations, you're right, its not looking great, but maybe a better question is why does its value continue going up anyway?
+
+Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer is nearly here or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
+Congratulations, you're right. Confused? but maybe a better question is why does its value continue going up anyway?
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one place to turn towards after dipping their toe into the space.
 **Cutaway to Brian dipping to
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
@@ -28,7 +29,8 @@ The answer? Sidechains.
 Sidechains are the solution where bitcoins sits in a vault between nodes with IOUs for bitcoin being traded in its place.
 
 Lets talk about the supply of bitcoins, or more realistically, the supply of cryptocurrencies.
-Due to the law of supply and demand, as the number of bitcoins created slows down fewer 
+Due to the law of supply and demand, as the number of bitcoins created slows down the price will naturally rise even if interest slowed down, which it shows no sign of doing. 
+Heres what ray dalio said in a recent article:
 
 > I should clarify what I said about its supply. Although Bitcoin is limited in supply, digital currencies are not limited in supply because new ones have come along and will continue to come along to compete so the supply of Bitcoin-like assets should, and competition will, play a role in determining Bitcoin and other cryptocurrency prices. In fact I assume that better ones will come along and displace this one because that is the way the evolution of everything works—i.e., new ways of doing things and new things always have and always will replace old ways of doing things and old things. Since the way Bitcoin works is fixed, it won’t be able to evolve and I presume that a better alternative will be invented and pass it by. I see that as a risk. For those reasons the “limited supply” argument isn’t as true as it might appear—e.g., if Blackberries were in limited supply they still wouldn’t be worth much because they were replaced by competitors that were more advanced. I still don’t know the answer to why that isn’t a risk, but I would welcome my naïveté being corrected.
 

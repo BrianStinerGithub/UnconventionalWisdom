@@ -16,10 +16,10 @@ links
 ### Working Script
 
 **Brian standing and speaking into the camera. Upper third of body in frame. Speaking with authority**
-
 If your clicked you probably have some bitcoin, and you're suspicious about its future.
 Congratulations, you're right, its not looking great, but maybe a better question is why does its value continue going up anyway?
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one place to turn towards after dipping their toe into the space.
+**Cutaway to Brian dipping to
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
 Mainly, scaling, centralization, fees, and ease of use.
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.

@@ -18,12 +18,16 @@ links
 **Brian standing and speaking into the camera. Upper third of body in frame. Speaking with authority**
 
 Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer is nearly here or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
+
 Congratulations, you're right. Confused? but maybe a better question is why does its value continue going up anyway?
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one place to turn towards after dipping their toe into the space.
+
 **Cutaway to Brian dipping to
+
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
 Mainly, scaling, centralization, fees, and ease of use.
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
+
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made, but how do you make a profit off an anti-authoritarian medium of exchange?
 The answer? Sidechains.
 Sidechains are the solution where bitcoins sits in a vault between nodes with IOUs for bitcoin being traded in its place.

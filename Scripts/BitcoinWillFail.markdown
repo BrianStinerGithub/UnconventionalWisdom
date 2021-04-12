@@ -3,7 +3,7 @@ n/a
 
 # Bitcoin will fail within 10 years
 
-![Image](/Thumbnails/Example.jpg)
+![Image](/Thumbnails/Bitcoin.jpg)
 
 ### Music
 links

@@ -17,6 +17,8 @@ links
 
 ### Working Script
 
+Todo - Print money and setup set
+
 **Holding a wad of cash, hear a printer, see a printer in light, talk to camera**
 
 What is money? Can it be defined with paper, or cloth, or digits in your bank account?

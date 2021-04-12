@@ -62,15 +62,30 @@ Ah, see here your money really is here. You for sure know where it is, for now.
 The issue is that this printed money still ruins the buying power of this money over time.
 Money, even if its in your possesion, is never really yours. It is always a share of the whole pie, and if that whole is growing your share shrinks in relation.
 Plus its hardly money at all. You can't spend this online. Good luck buying a home in cash. It still works for most of the economy but technologically it can't keep up.
+This used to be the main way we exchanged value, then it was with checks, then with cards, now with apps. Going back to cash is a hassle now.
 
 **Scary I know**
 
 So what are we supposed to do with this information, I hear you ask across the electric void. 
-Bank accounts aren't real money, the government is in control, and cash can't keep up.
-Well I'm not just telling you all this to depress you I'm telling you theres an alternative!
+Bank accounts aren't real money, the government has ultimate control, and cash can't keep up.
+Well I'm not just telling you all this to depress you!
+ I'm telling you theres an alternative!
 
 We have a currency that is set to upset the traditional idea that you need a bank account to work and live.
-Its not controlled by banks or government and you have a real chance to build wealth for your future.
+Its not controlled by banks or government, no fees, no crashes, and it doesn't inflate at 2-3% per year.
+You may think I'm talking about Bitcoin, but I'm not. If you have even heard of Bitcoin.
+The internet right? You searched up this video, saw the title and thumbnail, you're watching it right now.
+This video is really here! Not only that but its available to everyone, its fully public. 
+But what if I wanted to send you money? Then I would have to send it only to you and verify that it was real.
+Currently we have millions of humans watch over that process. We figuired out how to have machines do it instead.
+A system where every machine that participates helps manage the responsibility and humans have machines in their pockets.
+If you own a phone you don't need a bank. 
+We have some issues. We need to make conversion of your funds easier. We need to see broad adoption.
+You need to understand that when you come into this space you are rejecting the old and embracing the new even when many others are struggling to transfer over.
+People struggling to understand why conversion is neccesary. 
+Happy to keep having their money drained by a bloated system when machines can do it for free over the internet.
+Million of people are unbanked, leaving them prey to the check cashing, money cards, and payday loans. 
+How do we get them using crypto as soon as possible? They are suffering right now and we can fix it!
 
 
 

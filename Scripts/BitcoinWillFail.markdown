@@ -15,12 +15,13 @@ links
 
 ### Working Script
 
-**Brian standing and speaking into the camera. Upper third of body in frame. Speaking with authority**
+**Brian standing and speaking into the camera. Speaking with authority. Emotional action image** 
 
 Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer is nearly here or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
 
-Congratulations, you're right. Confused? but maybe a better question is why does its value continue going up anyway?
-Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one place to turn towards after dipping their toe into the space.
+Maybe a better question is why is bitcoin's value going up when wider adoption makes the network worse? Is it speculation? 
+Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
+If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion.
 
 **Cutaway to Brian dipping toes into water**
 
@@ -30,9 +31,9 @@ Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the 
 
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made, but how do you make a profit off an anti-authoritarian medium of exchange?
 How do you make money off money?
-The answer? Sidechains.
+The answer? You don't. You make money off debt.
 Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
-Its free the trade IOUs between nodes but that means we aren't trading money anymore! 
+Its free to trade IOUs between nodes but that means we aren't trading money anymore! It means you can charge fees for transfering payments. 
 This isn't what we were promised! If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
 Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
 

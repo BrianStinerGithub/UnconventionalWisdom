@@ -13,6 +13,8 @@ links
 
 *2* https://www.youtube.com/watch?v=ONvg9SbauMg
 
+*3* https://www.youtube.com/watch?v=6P97r9Ci5Kg
+
 ### Working Script
 
 **Holding a wad of cash, hear a printer, see a printer in light, talk to camera**
@@ -98,7 +100,38 @@ Wait no I'm talking about how banks print money. or really poof money into exist
 When you get a loan in crypto it is more akin to an earlier idea of a loan, like lending real cash. You lose access to it and they gain access. 
 No new money is created from nothing. No chance for government policy to destroy the country like with hyperinflation of the past.
 
+Bitcoin is a strange being. We have to question whether we ever understood money in the first place.
+Most of us don't understand money at all. If you do, I challenge you to explain it to someone without them getting lost.
+Dispite us needing it and devoting much of our lives to it we treat it like a fart at christmas dinner. We don't talk about it.
 
+Which is great for the few who do talk about money. They have new knowledge and understanding that makes their choices smarter.
 
+How does money get value? Its isn't becuase its backed by gold and its the gold that holds value. It isn't that the government garantees the value.
+You participate in giving value to the money becuase everyone else participates in giving value to the money.
+The more participants the more valuable it becomes to you to adopt the same system. No one is born using a different currency than their parents.
+The economic system you participate in is learned from your social enviroment.
 
+We feel iffy about crypto becuase nobody has been born using it naturally yet. Children will be born with an economy that runs itself under direct democratic control.
 
+We should be shouting from the rooftops, Hey! Do you have a bank? No? Download this app, you don't need one! Yes? Switch to this new one its way better! Download an app!
+Thats all we need to begin a revolution.
+
+Crypto promises to make verification instant and permissionless.
+
+I just got a new job, when you are applying for work everyone needs many forms of ID to prove you are telling the truth and can be trusted.
+I got an email speaking about my healthcare, in it 
+
+All patients must show us their photo identification before treatment. 
+Acceptable photo identifications include a driver's license, work badge, or passport.
+
+Can you imagine if none of this needed to happen and my phone could automatically prove I am who I say I am and no one can question that.
+Where we didn't need teams of people in offices to process these paper documents?
+
+Bank accounts and ID are two things that can be denied even when they are completly neccesary in our economy.
+By useing wallets we can give both ID and online money to everyone who doesn't have one. We make it effortless for merchants to accept it.
+
+The question comes when banks and the government need money. They can't control this new currency, it makes them more equal which they don't like.
+Centralized power own everything and we rent it from them. The government enforces this oppression.
+If we use it we own it.
+
+Fiat is collapsing, crypto is our future. 

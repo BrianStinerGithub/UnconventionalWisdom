@@ -11,6 +11,7 @@ links
 ### Sources
 *1* https://Thisisareference.com/specific_article_or_evidence
 *2* https://www.linkedin.com/pulse/what-i-really-think-bitcoin-ray-dalio
+*3* https://www.youtube.com/watch?v=DFZOrtlQXWc
 
 
 ### Working Script

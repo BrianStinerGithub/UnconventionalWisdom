@@ -68,8 +68,10 @@ This used to be the main way we exchanged value, then it was with checks, then w
 
 So what are we supposed to do with this information, I hear you ask across the electric void. 
 Bank accounts aren't real money, the government has ultimate control, and cash can't keep up.
+That the government can print away becuase it lost control of money printing a long time ago.
+The banks rule the economy.
 Well I'm not just telling you all this to depress you!
- I'm telling you theres an alternative!
+I'm telling you theres an alternative!
 
 We have a currency that is set to upset the traditional idea that you need a bank account to work and live.
 Its not controlled by banks or government, no fees, no crashes, and it doesn't inflate at 2-3% per year.
@@ -85,7 +87,17 @@ You need to understand that when you come into this space you are rejecting the 
 People struggling to understand why conversion is neccesary. 
 Happy to keep having their money drained by a bloated system when machines can do it for free over the internet.
 Million of people are unbanked, leaving them prey to the check cashing, money cards, and payday loans. 
+They make money off the flaws in the system, so a new system without flaws, without profit, is a threat to their lives. 
 How do we get them using crypto as soon as possible? They are suffering right now and we can fix it!
+Online money without banks!
+
+The main issue with cryptocurrencies is that economies happen in real time. Most people don't understand how to use crypto, crypto isn't exactly human friendly, and if you don't look to far into it government fiat sits in the background just working. You have to ignore how it doesn't work but people live in a bubble of their own reality so some are impenetrable. 
+
+Wait no I'm talking about how banks print money. or really poof money into existence and you pay for their cheating on your behalf. If you use it responsibily to build more wealth for yourself it could work out in the end, but for most loans they just increase the price and make you pay for it longer. Its not helping anyone.
+
+When you get a loan in crypto it is more akin to an earlier idea of a loan, like lending real cash. You lose access to it and they gain access. 
+No new money is created from nothing. No chance for government policy to destroy the country like with hyperinflation of the past.
+
 
 
 

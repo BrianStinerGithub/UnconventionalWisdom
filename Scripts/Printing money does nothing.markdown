@@ -61,10 +61,14 @@ So where is your money?
 **Pulls out cash**
 
 Ah, see here your money really is here. You for sure know where it is, for now.
-The issue is that this printed money still ruins the buying power of this money over time.
+The issue is that other people printing money still ruins the buying power of this money over time.
 Money, even if its in your possesion, is never really yours. It is always a share of the whole pie, and if that whole is growing your share shrinks in relation.
-Plus its hardly money at all. You can't spend this online. Good luck buying a home in cash. It still works for most of the economy but technologically it can't keep up.
-This used to be the main way we exchanged value, then it was with checks, then with cards, now with apps. Going back to cash is a hassle now.
+Plus its hardly money at all. You can't spend this online. Plenty of places won't accept cash. Good luck buying a home with suitcases of bills. 
+It still works for common economic actions but technologically it can't keep up.
+This used to be the main way we exchanged value in the world, then it was with checks, then with cards, now with apps.
+Now we can't live without them and we know they are abusing that for their own gain.
+So how do we exchange money online without a bank?
+Cryptocurrency
 
 **Scary I know**
 

@@ -22,18 +22,23 @@ Does the institutional adoption of bitcoin by big players like blackstone, morga
 Congratulations, you're right. Confused? but maybe a better question is why does its value continue going up anyway?
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one place to turn towards after dipping their toe into the space.
 
-**Cutaway to Brian dipping to
+**Cutaway to Brian dipping toes into water**
 
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
 Mainly, scaling, centralization, fees, and ease of use.
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
 
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made, but how do you make a profit off an anti-authoritarian medium of exchange?
+How do you make money off money?
 The answer? Sidechains.
-Sidechains are the solution where bitcoins sits in a vault between nodes with IOUs for bitcoin being traded in its place.
+Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
+Its free the trade IOUs between nodes but that means we aren't trading money anymore! 
+This isn't what we were promised! If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
+Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
 
 Lets talk about the supply of bitcoins, or more realistically, the supply of cryptocurrencies.
-Due to the law of supply and demand, as the number of bitcoins created slows down the price will naturally rise even if interest slowed down, which it shows no sign of doing. 
+Due to the law of supply and demand, as the number of bitcoins created from each epoch slows down the price will naturally rise even if interest slowed down, which it shows no sign of doing. People like stability and will contunue to hold thier bitcoins, even when it starts to mold from age they continue to hold. As bitcoin production slows down other cryptocurrencies with better features and robustness will fill the gap.
+
 Heres what ray dalio said in a recent article:
 
 > I should clarify what I said about its supply. Although Bitcoin is limited in supply, digital currencies are not limited in supply because new ones have come along and will continue to come along to compete so the supply of Bitcoin-like assets should, and competition will, play a role in determining Bitcoin and other cryptocurrency prices. In fact I assume that better ones will come along and displace this one because that is the way the evolution of everything works—i.e., new ways of doing things and new things always have and always will replace old ways of doing things and old things. Since the way Bitcoin works is fixed, it won’t be able to evolve and I presume that a better alternative will be invented and pass it by. I see that as a risk. For those reasons the “limited supply” argument isn’t as true as it might appear—e.g., if Blackberries were in limited supply they still wouldn’t be worth much because they were replaced by competitors that were more advanced. I still don’t know the answer to why that isn’t a risk, but I would welcome my naïveté being corrected.
@@ -41,14 +46,13 @@ Heres what ray dalio said in a recent article:
 
 Competitivly bitcoin has fallen behind the pack with its only saving grace being its brand recognition. 
 
-
 > Rising inflation and the potential for even more stimulus continues to push people to safe-haven assets.
 > Increased adoption from payment applications like PayPal will give far more people easy access to cryptocurrency.
 > Publicly traded companies purchasing Bitcoin shows a high level of confidence in its appreciation.
 > Bitcoin's historical trend of closely following its halving stock-to-flow model shows an ambitious and extremely bullish outlook.
 
-The only reason anyone would hodl or buy into bitcoin is to sell them for more later.
-Its a speculation market, just like the tulip craze. Bitcoin is ancient tech, and bound to fail. 
+The only reason anyone would hodl or buy into bitcoin is to sell them for more later. Its not a real currency.
+Its a speculation market, just like the tulip craze. Bitcoin is ancient tech, and bound to fail. Every day a huge percentage of our electicity is consumed to solve problems for computers. We need a currency that doesn't consume huge amounts of electricity.
 
 bitcoin has an artificially low transaction speed.
 the company that controls bitcoin is looking for profit, and a lot of it.

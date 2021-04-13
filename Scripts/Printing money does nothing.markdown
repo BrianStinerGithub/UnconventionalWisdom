@@ -105,11 +105,11 @@ Using Bitcoin is getting worse every year.
 This is where IOTA and Cardano come in. Headed by scientific researchers, non-profits, and open source communities.
 
 A system where every machine that participates helps manage the responsibility and humans have machines in their pockets.
-If you own a phone you don't need a bank. If you memorize a 15 word phrase you can't lose access to your money no matter what.
+If you own a phone you don't need a bank. If you memorize or write down a 15 word phrase you can't lose access to your money no matter what. Lose your phone. Lose access to the internet. The data from everyone's transactions are stored forever. The whole planet would need to lose internet all at once which would be a world ending scenario so lets not go there.
 
-We have some issues. We need to make conversion of your funds easier. We need to see broad adoption. More business acceptance leads to higher user adoption. 
-
-You need to understand that when you come into this space you are rejecting the old and embracing the new even when many others are struggling to transfer over. People don't want to change even if it gives them more freedom and independence with their lives.
+We have some issues. We need to make conversion of your funds easier. We need to see broad adoption. More business acceptance leads to higher user adoption.  
+You need to understand that when you come into this space you are rejecting the old and embracing the new even when many others are struggling to transfer over. 
+People don't want to change even if it gives them more freedom and independence with their lives.
 People struggling to understand why conversion is neccesary. Things work fine as they are! 
 Happy to keep having their money drained by a bloated system  of fees and inflation when machines can do it for free over the internet and give you the profits.
 

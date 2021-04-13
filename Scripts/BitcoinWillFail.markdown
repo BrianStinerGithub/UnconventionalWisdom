@@ -93,7 +93,7 @@ Move your money to a currency that can actually change the world.
 Your choice is between 
 Cardano: A fractal blockchain 
 or
-IOTA: An adaptive blocktree where each participant validates 2 others.
+IOTA: An adaptive blocktree.
 
 The way to profit now is to vote for the future and bitcoin is past its prime.
 

@@ -17,7 +17,7 @@ links
 
 ### Working Script
 
-Todo - Print money and setup set
+Todo - Print money piles, red light, printer, and setup set
 
 **Holding a wad of cash, hear a printer, see a printer in light, talk to camera**
 
@@ -25,14 +25,17 @@ What is money? Can it be defined with paper, or cloth, or digits in your bank ac
 How is it personal, business, and government property all at the same time?
 We see and feel that it motivates work, gets us material comfort, and that enough of it holds power.
 Knowing how to use money can be the difference between insane luxery and deadly poverty.
-So why does almost no one know about how it works? Even trained economists will say they're guessing.
-Why don't we talk about how its structured in public, when it clearly isn't working correctly. We are not benifiting from this economy.
-That rich groups manipulate financial powers without regard to their responsibility only thinking of their own profits. 
+So why does almost no one know about how it works? Even trained economists will say they're guessing. 
+Which is worrying :(
 
-**Home price, education price, car price, food price**
+Why don't we talk about how its structured in public, when it clearly isn't working correctly. Is it just too complicated? Too boring?
+We are not benifiting from this economy so we need to talk about it.
+How rich groups manipulate financial powers without regard to their responsibility only thinking of their own profits. 
+
+**Home price, education price, car price, food price graphs showing history**
 
 When prices inflate, our money is affected without it needing to move. What happens to everyone effects us all.
-When home prices double we still need homes, when college endebts our children we feel scared but go along with it.
+When home prices double we still need homes, when college indebts our children we feel scared but go along with it.
 No price is too high for a good education. When we need a car to live and car prices get higher every year.
 
 **Back to the red money printer holding food in hands**
@@ -41,9 +44,16 @@ When food... FOOD gets more expensive EVERY SINGLE YEAR. Who is affecting the to
 
 **Cut in to face slowly**
 
-Thats the only way to get inflation. There is more money now. But if you look at the federal printed supply of money you see that its been really stable for a long time.
-Except for that huge spike in recent years which to every economists suprise didn't cause a huge wave of inflation. For some reason it didn't seem to be enough.
-If we overlay inflation on this we can see it doesn't match. So who making money other than the government?
+Becuase, of course, thats the only way to get inflation. 
+There is more money in existence now. 
+
+**Graph of money supply**
+
+But if you look at the federal printed supply of money you see that its been really stable for a long time.
+Except for that huge spike in recent years which to every economists suprise didn't cause a huge wave of inflation. 
+For some reason it didn't seem to be enough, we still need more.
+If we overlay inflation on this we can see it doesn't match. 
+So who making money other than the government?
 
 **Cut back to wide with no money to be seen**
 
@@ -51,8 +61,10 @@ To explain where all this extra money is coming from and where all this extra mo
 
 **Cameraman pulls out phone, turns it around**
 
-Nooo, thats not where your money is. Thats just a readout of what the bank owes you **IF** you wanted to cash out. When you put cash in the bank owns it now. You have to play by their rules.
-Everyone with a bank account will accept an IOU from the bank just as easily as real money. It's only when things get shaky but in the end its still a debt. 
+Nooo, thats not where your money is. Thats just a readout of what the bank owes you **IF** you wanted to cash out. 
+When you put cash in the bank owns the money now. They give you an electronic IOU you can use online and with a card.
+Everyone with a bank account will accept an IOU from the bank just as easily as real money. 
+It's only when things get shaky but in the end its still a debt. 
 We know that banks make loans, and that they make far more loans than they have in reserves. 
 When those loans are issued the bank doesn't move money from anyone's account to make the loan, they create the loan like particles at the start of the universe.
 

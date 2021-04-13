@@ -51,14 +51,17 @@ To explain where all this extra money is coming from and where all this extra mo
 
 **Cameraman pulls out phone, turns it around**
 
-Nooo, thats not where your money is. Thats just a readout of what the bank owes you if you wanted to cash out. When you put cash in your get an IOU from the bank.
-Everyone with a bank account will accept an IOU from the bank just as easily as real money but in the end its still a debt. 
-We know that banks make loans, and that they make far more loans than they have saved in the vault. 
+Nooo, thats not where your money is. Thats just a readout of what the bank owes you **IF** you wanted to cash out. When you put cash in the bank owns it now. You have to play by their rules.
+Everyone with a bank account will accept an IOU from the bank just as easily as real money. It's only when things get shaky but in the end its still a debt. 
+We know that banks make loans, and that they make far more loans than they have in reserves. 
 When those loans are issued the bank doesn't move money from anyone's account to make the loan, they create the loan like particles at the start of the universe.
-Matter and anti-matter come from nothing. The bank issues you a bank account balence of $10,000 and you sign a document with a value of at least $10,000 dollars.
+
+**Animation of credit debt particles**
+Matter and anti-matter come from nothing, creating each other and destroying each other.
+The bank issues you a bank account balence of $10,000 and you sign a document, an asset the bank will sell for about $10,000 dollars. 
 Which is two positives, $20,000 printed and ready to spend, without any government influence. This means the reserve ratio is meaningless since money isn't loaned out from anyone's savings.
 It's created when we get in debt and destroyed when we pay it back.
-So where is your money? 
+So where **IS** your money? 
 
 **Pulls out cash**
 
@@ -67,13 +70,15 @@ The issue is that other people printing money still ruins the buying power of th
 Money, even if its in your possesion, is never really yours. It is always a share of the whole pie, and if that whole is growing your share shrinks in relation.
 Here's something you've grown accustomed too. 2% inflation. That means in 20 years half of your savings and wages are gone. You are running on a treadmill.
 
-Plus its hardly money at all. You can't spend this online. Plenty of places won't accept cash. Good luck buying a home with suitcases of bills. 
-It still works for common economic actions but technologically it can't keep up. People want digital money.
+Plus its hardly money at all. You can't spend this online. Plenty of places won't accept cash. Good luck buying a home with suitcases of bills.
+It still works for common economic actions but technologically it can't keep up. 
+People want digital money.
 
 **Gestures with greenbacks, then check, then card, then phone**
 This used to be the main way we exchanged value in the world, then it was with checks, then with cards, now with apps.
-Now we can't live without them and we know they are abusing that for their own gain.
-So how do we exchange money online without a bank?
+Now we can't live without them and we know they are abusing that for their own gain. 
+They can't help it. Power corrupts, absolute power corrupts absolutly. 
+But how do we exchange money online without a bank?
 
 **New set but details fuzzy**
 
@@ -83,30 +88,46 @@ That the government can print away becuase it lost control of money printing a l
 Well I'm not just telling you all this to depress you!
 I'm telling you theres an alternative!
 
-We have a currency that is set to upset the traditional idea that you need a bank account to work and live.
+Cryptocurrency money born and raised online. 
 Its not controlled by banks or government, no fees, no economic crashes, and it doesn't inflate at 2-3% per year.
-You may think I'm talking about Bitcoin, but I'm not. If you have even heard of Bitcoin.
 The internet right? You searched up this video, saw the title and thumbnail, you're watching it right now.
 This video is really here! Not only that but its available to everyone, its fully public. 
 But what if I wanted to send you money? Then I would have to send it only to you and verify that it was real.
-Currently we have millions of humans watch over that process. We figuired out how to have machines do it instead.
+Currently we have millions of humans watch over that process. Some of that verification happens in paper, some happens in conversation.
+We figuired out how to have machines do it instead.
+
+You may think I'm talking about Bitcoin, but I'm not. If you have even heard of Bitcoin. This is very new.
+Bitcoin was the first generation of cryptocurrencies and it was a stable online distributed payment system when it was small.
+Just the developers, then a small in group, then early adopters.
+Now its far too big and refuses to grow up to meet that demand. Still restricted to 10 minute wait times and big fees.
+Using Bitcoin is getting worse every year.
+
+This is where IOTA and Cardano come in. Headed by scientific researchers, non-profits, and open source communities.
+
 A system where every machine that participates helps manage the responsibility and humans have machines in their pockets.
-If you own a phone you don't need a bank. 
-We have some issues. We need to make conversion of your funds easier. We need to see broad adoption.
-You need to understand that when you come into this space you are rejecting the old and embracing the new even when many others are struggling to transfer over.
-People struggling to understand why conversion is neccesary. 
-Happy to keep having their money drained by a bloated system when machines can do it for free over the internet.
-Million of people are unbanked, leaving them prey to the check cashing, money cards, and payday loans. 
-They make money off the flaws in the system, so a new system without flaws, without profit, is a threat to their lives. 
-How do we get them using crypto as soon as possible? They are suffering right now and we can fix it!
+If you own a phone you don't need a bank. If you memorize a 15 word phrase you can't lose access to your money no matter what.
+
+We have some issues. We need to make conversion of your funds easier. We need to see broad adoption. More business acceptance leads to higher user adoption. 
+
+You need to understand that when you come into this space you are rejecting the old and embracing the new even when many others are struggling to transfer over. People don't want to change even if it gives them more freedom and independence with their lives.
+People struggling to understand why conversion is neccesary. Things work fine as they are! 
+Happy to keep having their money drained by a bloated system  of fees and inflation when machines can do it for free over the internet and give you the profits.
+
+Million of people are unbanked, leaving them prey to the check cashing, money cards, and payday loans.
+Maybe they smell, or they don't make enough, or the owners are racist. Either way the owners are in control.
+They make money off the flaws in the system we use, so a new system without flaws, without profit, without power is a threat to their lives. Freedom mean giving up their position and moving on.
+How do we get people using crypto as soon as possible? Really using it! They are suffering right now and we can fix it!
 Online money without banks!
 
-The main issue with cryptocurrencies is that economies happen in real time. Most people don't understand how to use crypto, crypto isn't exactly human friendly, and if you don't look to far into it government fiat sits in the background just working. You have to ignore how it doesn't work but people live in a bubble of their own reality so some are impenetrable. 
+The main issue with cryptocurrencies is that economies happen in real time. Most people don't understand how to use crypto, crypto isn't exactly human friendly, and if you don't look to far into it government fiat sits in the background just working.
+It's only when you focus in do you see that its held together with duct tape.
+To believe everything is fine you have to ignore how it doesn't work for many poor people who live in a bubble cut off from love and attention.  
 
-Wait no I'm talking about how banks print money. or really poof money into existence and you pay for their cheating on your behalf. If you use it responsibily to build more wealth for yourself it could work out in the end, but for most loans they just increase the price and make you pay for it longer. Its not helping anyone.
+Wait no I'm talking about how banks print money. or really poof money into existence and you pay for them cheating on your behalf. If you use it responsibily to build more wealth for yourself it could work out in the end, but for most loans they just increase the price and make you pay for it longer. Its not helping anyone. 
 
 When you get a loan in crypto it is more akin to an earlier idea of a loan, like lending real cash. You lose access to it and they gain access. 
 No new money is created from nothing. No chance for government policy to destroy the country like with hyperinflation of the past.
+Do I need to list all the government who ruined their economy by printing too much money?
 
 Bitcoin is a strange being. We have to question whether we ever understood money in the first place.
 Most of us don't understand money at all. If you do, I challenge you to explain it to someone without them getting lost.

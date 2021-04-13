@@ -39,7 +39,7 @@ Mainly, scaling, centralization, fees, and ease of use.
 **Some kinda cutaway**
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
 
-**Big numbers barely fit ughph sound effect**
+**Big numbers barely fit balloon inflating sound effect**
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made to pay it back, but how do you make a profit off an anti-authoritarian medium of exchange?
 How do you make money off money?
 The answer? You don't. You make money off debt.

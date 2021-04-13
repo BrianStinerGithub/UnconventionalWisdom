@@ -19,7 +19,7 @@ links
 
 **Brian standing and speaking into the camera. Speaking with authority. Emotional action image** 
 
-Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer is nearly here or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
+Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
 
 Maybe a better question is why is bitcoin's value going up when wider adoption makes the network worse? Is it speculation? 
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 

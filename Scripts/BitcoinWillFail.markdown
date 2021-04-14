@@ -16,9 +16,11 @@ links
 
 *3* https://www.youtube.com/watch?v=DFZOrtlQXWc
 
-*4* https://www.youtube.com/watch?v=Ew2MWVtNAt0
+*4* 11. Blockchain Economics: https://www.youtube.com/watch?v=_eGNSuTBc60
 
 *5* https://cointelegraph.com/news/cardano-releases-solution-that-scales-more-than-visas-payment-network
+
+*6* Banks don't lend money, they create it: Demystifying monetary and banking terminology: https://www.youtube.com/watch?v=rvh403-PnsU
 
 
 ### Working Script
@@ -31,13 +33,12 @@ Maybe a better question is why is bitcoin's value going up when wider adoption m
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
 If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion.
 
-**Cutaway to Brian dipping toes into water**
-
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
 Mainly, scaling, centralization, fees, and ease of use.
 
 **Some kinda cutaway**
-Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
+Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency 
+for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
 
 **Big numbers barely fit balloon inflating sound effect**
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made to pay it back, but how do you make a profit off an anti-authoritarian medium of exchange?
@@ -46,6 +47,7 @@ The answer? You don't. You make money off debt.
 Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
 Its free to trade IOUs between nodes but that means we aren't trading money anymore!
 This isn't what we were promised! 
+To solve blockchain scaling issues lightning network strips away the blockchain! It was a feature, not a bug! 
 If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
 Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
 
@@ -54,7 +56,7 @@ Due to the law of supply and demand, as the number of bitcoins created from each
 
 Heres what ray dalio said in a recent article:
 
-> I should clarify what I said about its supply. Although Bitcoin is limited in supply, digital currencies are not limited in supply because new ones have come along and will continue to come along to compete with the supply of Bitcoin-like assets should, and competition will, play a role in determining Bitcoin and other cryptocurrency prices. In fact I assume that better ones will come along and displace this one because that is the way the evolution of everything works—i.e., new ways of doing things and new things always have and always will replace old ways of doing things and old things. Since the way Bitcoin works is fixed, it won’t be able to evolve and I presume that a better alternative will be invented and pass it by. 
+> I should clarify what I said about its supply. Although Bitcoin is limited in supply, digital currencies are not limited in supply because new ones have come along and will continue to come along to compete with the supply of Bitcoin-like assets. Competition should, and competition will, play a role in determining Bitcoin and other cryptocurrency prices. In fact I assume that better ones will come along and displace this one because that is the way the evolution of everything works—i.e., new ways of doing things and new things always have and always will replace old ways of doing things and old things. Since the way Bitcoin works is fixed, it won’t be able to evolve and I presume that a better alternative will be invented and pass it by. 
 
 
 **Room zooms off to the lower third to reveal a shining bitcoin, the read off in a fun angelic voice each of the reasons bitcoin sails. Memes on stonks raising to the opper third**

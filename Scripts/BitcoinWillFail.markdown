@@ -22,6 +22,8 @@ links
 
 *6* Banks don't lend money, they create it: Demystifying monetary and banking terminology: https://www.youtube.com/watch?v=rvh403-PnsU
 
+*7* Bitcoin is punk rock https://www.youtube.com/watch?v=A6kJfvuNqtg
+
 
 ### Working Script
 

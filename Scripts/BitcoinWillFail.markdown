@@ -33,7 +33,7 @@ Maybe a better question is why is bitcoin's value going up when wider adoption m
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
 If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion.
 
-However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering pefect solutions to the online currency problems.
+However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering perfect solutions to our online currency problem.
 Mainly, scaling, centralization, fees, and ease of use.
 
 **Some kinda cutaway**
@@ -47,7 +47,9 @@ The answer? You don't. You make money off debt.
 Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
 Its free to trade IOUs between nodes but that means we aren't trading money anymore!
 This isn't what we were promised! 
-To solve blockchain scaling issues lightning network strips away the blockchain! It was a feature, not a bug! 
+To solve blockchain scaling issues lightning network strips away the blockchain! 
+**clip from that one video**
+It was a feature, not a bug! 
 If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
 Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
 

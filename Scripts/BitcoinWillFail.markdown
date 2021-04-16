@@ -39,6 +39,7 @@ However bitcoin is objectivly the worst currency of the bunch with new players l
 Mainly, scaling, centralization, fees, and ease of use.
 
 **Some kinda cutaway**
+**Throwing, burning, spinning, dunking in milk, washing, rolling, burying, Try to use at Aldi, Strapped to a rocket, scanning, hanging from string/rope, zooming out with drone, Everywhere.**
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency 
 for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
 
@@ -85,25 +86,41 @@ But bitcoin has been twisted from its ideals of the blockchain and the distribut
 Blockstream plans to sell properly functioning sidechains to fix bitcoin rather than make bitcoin itself functional.
 Lighting network is one solution that would make deposits of bitcoin into a central location.
 We trade IOUs for the bitcoins. This makes our currency more of a bitcoin-backed fiat.
-It also removes the distributed ledger recording every transaction. Which was a feature not a bug.
+It also removes the distributed ledger recording every transaction. 
 
+**Clip transition in to whats his face talking about bitcoin**
+Which was a feature not a bug.
+they will try to add a little centralization a little kyc.
+
+**Clips of quantum computers being used from the historic moment**
 Bitcoin will also crumble to dust when traditional cryptography is quantum hacked out of existence.
-Quantum computers are getting official, and in 20 years we don't want out monetary system destroyed. 
+Quantum computers are getting official, and in 20 years we don't want out monetary system destroyed by rougue researchers. 
+
+**Bitcoin clip**
 So we again, can't use bitcoin. We do have hope though.
 
+**Clips of IOTA and Cardano**
 None of these issues exist with newer generations of distributed ledgers like IOTA and Cardano.
 They keep power in p2p hands, enable community governance, charge micro-cents or nothing for fees, they are intentionally scaling for world domination, and they are quantum secure.
-When these networks start being used for real transactions and bitcoin still hasn't delivered on its core promise of bringing freedom and democracy to money, people will wake up and abandom ship, selling their bitcoin to get some of the real useable money.
 
-Move your money to a currency that can actually change the world. 
-Your choice is between 
+**Speaking to the camera**
+Currently our trouble is getting people to use a blockchain system at all but soon we will be picking the best one. 
+We'll start sizing up the benifits for us individually.
+When these next generaion currencies start being used for real transactions and bitcoin still hasn't delivered on its core promise of bringing freedom and democracy to money, people will wake up and abandom ship, selling their bitcoin to get some of the real useable money.
+
+**Drone shot zoom out of bitcoin**
+Move your money to a currency that can actually change the world. It's only a blockchain age if we are all using it. 
+Your choice is between: 
+
+**Clips they have put out, slide over to split screen, logo overlay with a little flicker**
 Cardano: A fractal blockchain 
 or
 IOTA: An adaptive blocktree.
 
+**Bitcoin diving off the table**
 The way to profit now is to vote for the future and bitcoin is past its prime.
-
 The world won't be transacting in satoshis, bitcoin is bust.
 
+**A shot of news on a tv**
 This scramble for altcoins capable of delivering “face-melting” gains has led to a decline in Bitcoin trading volume across South Korean exchanges.
 

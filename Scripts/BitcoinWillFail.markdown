@@ -35,24 +35,35 @@ Maybe a better question is why is bitcoin's value going up when wider adoption m
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
 If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion.
 
+**Crypto balls, like country balls, reletive sizes and them looking at each other**
+
 However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering perfect solutions to our online currency problem.
+
+**Words with icons to represent them, revealed as I say the words**
+
 Mainly, scaling, centralization, fees, and ease of use.
 
 **Some kinda cutaway**
+
 **Throwing, burning, spinning, dunking in milk, washing, rolling, burying, Try to use at Aldi, Strapped to a rocket, scanning, hanging from string/rope, zooming out with drone, Everywhere.**
+
 Bitcoin was realeased in 2009 like a virus escaping a laboratory, and after the initial drama of being the first in the world digital currency 
 for some reason the developers have refused to update the blockchain to match user demand leading to high fees and long wait times.
 
-**Big numbers barely fit balloon inflating sound effect**
+**Blow up ballon with "$80 billion" written on it**
 After 80 billion dollars was invested into blockstream, the developers knew profits needed to be made to pay it back, but how do you make a profit off an anti-authoritarian medium of exchange?
+
+**Look at brian looking confused / look at bitcoin and some cash / Wipe both off table, dump paperwork on table**
 How do you make money off money?
 The answer? You don't. You make money off debt.
 Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
 Its free to trade IOUs between nodes but that means we aren't trading money anymore!
 This isn't what we were promised! 
 To solve blockchain scaling issues lightning network strips away the blockchain! 
+
 **clip from that one video**
 It was a feature, not a bug! 
+
 If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
 Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
 
@@ -65,6 +76,7 @@ Heres what ray dalio said in a recent article:
 
 
 **Room zooms off to the lower third to reveal a shining bitcoin, the read off in a fun angelic voice each of the reasons bitcoin sails. Memes on stonks raising to the opper third**
+
 Competitivly bitcoin has fallen behind the pack with its only saving grace being **its brand recognition.** 
 
 > Rising inflation and the potential for even more stimulus continues to push people to safe-haven assets.
@@ -77,50 +89,84 @@ Its a speculation market, just like the tulip craze. Bitcoin is ancient tech, an
 
 Bitcoin has an artificially low transaction speed. 5-7 transactions per second. Did you know that it could be 5000-7000 instead?
 The network had to be born, so bitcoin came into the world with very strong security to keep it safe. It was supposed to grow. 
-Now that its bigger but still holding on to its childish its fallen into powerful miner groups competing with blockstream developers. 
-They have over the years rejected proposals to increase the blocksize on the grounds that it'll cost more data per second. 
-the company that controls bitcoin is looking for profit, and a lot of it.
-your bitcoin is supposed to offer p2p value transfer without centralization and fees.
+Now that its bigger but still holding on to its childish ways.
+Now powerful miner groups compete with blockstream developers for control of the network. Huge money influences both sides.
+
+**The proposals rejected to make bitcoin better** 
+They have over the years rejected proposals to increase the blocksize on the grounds that it'll cost more data per second.
+Which is yeah, the point? The network is too slow, so make it faster.
+ 
+**talking to camera**
+
+The company that controls bitcoin is looking for, and needs to find, a lot of profit.
+
+**Pass Bitcoin to Olivia, thumbs up**
+
+Your bitcoin is supposed to offer p2p value transfer without centralization and fees.
+
+**Bitcoin covers walter white face, big money corruption**
+
 But bitcoin has been twisted from its ideals of the blockchain and the distributed ledger when it became a money printing machine.
 
+
+**Lightning animation**
+
 Blockstream plans to sell properly functioning sidechains to fix bitcoin rather than make bitcoin itself functional.
+
+**Bury the bitcoin**
+
 Lighting network is one solution that would make deposits of bitcoin into a central location.
+
+**Tiny paper ious with a grey bitcoin on them pulled from the ground**
+
 We trade IOUs for the bitcoins. This makes our currency more of a bitcoin-backed fiat.
-It also removes the distributed ledger recording every transaction. 
+
+**Closing a book**
+
+But this stops the distributed ledger from recording every transaction. 
 
 **Clip transition in to whats his face talking about bitcoin**
+
 Which was a feature not a bug.
-they will try to add a little centralization a little kyc.
+Which was a feature not a bug.
 
 **Clips of quantum computers being used from the historic moment**
+
 Bitcoin will also crumble to dust when traditional cryptography is quantum hacked out of existence.
 Quantum computers are getting official, and in 20 years we don't want out monetary system destroyed by rougue researchers. 
 
 **Bitcoin clip**
+
 So we again, can't use bitcoin. We do have hope though.
 
 **Clips of IOTA and Cardano**
+
 None of these issues exist with newer generations of distributed ledgers like IOTA and Cardano.
 They keep power in p2p hands, enable community governance, charge micro-cents or nothing for fees, they are intentionally scaling for world domination, and they are quantum secure.
 
 **Speaking to the camera**
+
 Currently our trouble is getting people to use a blockchain system at all but soon we will be picking the best one. 
 We'll start sizing up the benifits for us individually.
 When these next generaion currencies start being used for real transactions and bitcoin still hasn't delivered on its core promise of bringing freedom and democracy to money, people will wake up and abandom ship, selling their bitcoin to get some of the real useable money.
 
 **Drone shot zoom out of bitcoin**
+
 Move your money to a currency that can actually change the world. It's only a blockchain age if we are all using it. 
 Your choice is between: 
 
 **Clips they have put out, slide over to split screen, logo overlay with a little flicker**
+
 Cardano: A fractal blockchain 
 or
 IOTA: An adaptive blocktree.
 
 **Bitcoin diving off the table**
+
 The way to profit now is to vote for the future and bitcoin is past its prime.
 The world won't be transacting in satoshis, bitcoin is bust.
 
 **A shot of news on a tv**
+
 This scramble for altcoins capable of delivering “face-melting” gains has led to a decline in Bitcoin trading volume across South Korean exchanges.
 

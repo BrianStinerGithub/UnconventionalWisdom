@@ -28,7 +28,13 @@ links
 
 ### Working Script
 
-**Scissers, camera, balloon, pen, bitcoin**
+**camera, gimble, Scissers, balloon, pen, bitcoin, mask, record player**
+**Showing off bitcoin in hand**
+**Threatened with sissors**
+**Cut with scissors**
+**Sitting on a record player**
+**Sitting in a mask**
+**Blow up ballon with "$80 billion" written on it**
 
 **Brian standing and speaking into the camera. Speaking with authenticity.** 
 

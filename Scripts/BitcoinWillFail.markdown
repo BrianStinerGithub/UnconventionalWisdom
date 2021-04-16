@@ -44,7 +44,7 @@ Bitcoin was released in 2009 like a virus escaping a laboratory and after the in
 for some reason, the developers have refused to update the blockchain to match user demand leading to the high fees and long wait times we see today.
 
 Now to be fair, put yourself in Blockstreams shoes,
-After 80 billion dollars was invested into the company, the developers knew profits needed to be made to pay it back, but how do you make a profit from developing an anti-authoritarian medium of exchange?
+After 80 billion dollars was invested into the company, the developers knew they needed to make profits to pay it back, but how do you make a profit from developing an anti-authoritarian medium of exchange?
 
 How do you make money off money?
 The answer? 
@@ -115,16 +115,20 @@ Currently, our trouble is getting people to use a distributed ledger system at a
 but soon everyone will be picking the best one for them. 
 We'll start sizing up the benefits for us individually and making a choice.
 
-When these next-generation currencies start being used for real transactions across the world and bitcoin still hasn't delivered on its core promise of bringing freedom and democracy with the internet of money, 
+When these next-generation currencies start being used for real transactions across the world and bitcoin still hasn't delivered on its core promises of bringing freedom and democracy to the internet of money, 
 people will wake up and abandon ship, selling their digital gold for the real useable money.
 
-If you want to profit from this move your money to a currency that can actually change the world. It's only a blockchain age if we are all using it.
+If you want to profit from this move your money to a currency that can actually change the world. 
+It's only a blockchain age if everyone is using it.
+Not just those with disposable income.
 Which is the ultimate goal. Let us keep that in mind. 
 We all want the same thing, and that's for fiat to be history.
+For smaller, more effective government. For local power.
+For democracy! For revolution!
 
 If you want to help this channel stay fiat-free you can find public keys in the description, 
-and if you have never used cryptocurrency before you can sign up for a Celcius account with the promo code to get $40.
-Make sure to read the details on that.
+and if you have never used cryptocurrency before you can sign up for a Celcius account with my promo code to get $40.
+Make sure to read the details on that to verify you qualify.
 
 Blockchain isn't just about getting rich or making a better economy, but about making ourselves better as well.
 

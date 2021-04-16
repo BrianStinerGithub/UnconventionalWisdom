@@ -25,19 +25,24 @@ links
 *7* Bitcoin is punk rock https://www.youtube.com/watch?v=A6kJfvuNqtg
 
 
+
 ### Working Script
 
-**Brian standing and speaking into the camera. Speaking with authority. Emotional image** 
+**Sissers, camera, balloon, pen**
+
+**Brian standing and speaking into the camera. Speaking with authority. ** 
 
 Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
 
 Maybe a better question is why is bitcoin's value going up when wider adoption makes the network worse? Is it speculation? 
 
 **showing off bitcoin**
+
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
 
 **Sitting on a record player**
-If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion.
+
+If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion, and we also have other cryptocurrencies to choose.
 
 **Crypto balls, like country balls, reletive sizes and them looking at each other**
 

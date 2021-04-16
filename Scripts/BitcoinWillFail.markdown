@@ -30,13 +30,21 @@ I need some poppin music thats also chill like Vsauce
 ### Working Script
 
 **camera, gimble, Scissers, balloon, pen, bitcoin, mask, record player**
+
 **Slow-mo**
+
 **Showing off bitcoin in hand**
+
 **Threatened with sissors**
+
 **Cut with scissors**
+
 **Sitting on a record player**
+
 **Sitting in a mask**
+
 **Sitting in mold**
+
 **Blow up ballon with "$80 billion" written on it**
 
 **Brian standing and speaking into the camera. Speaking with authenticity.** 

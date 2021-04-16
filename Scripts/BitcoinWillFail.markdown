@@ -30,7 +30,7 @@ links
 
 **Sissers, camera, balloon, pen**
 
-**Brian standing and speaking into the camera. Speaking with authority. ** 
+**Brian standing and speaking into the camera. Speaking with authenticity.** 
 
 Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
 

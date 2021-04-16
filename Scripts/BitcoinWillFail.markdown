@@ -28,7 +28,7 @@ links
 
 ### Working Script
 
-**Scissers, camera, balloon, pen**
+**Scissers, camera, balloon, pen, bitcoin**
 
 **Brian standing and speaking into the camera. Speaking with authenticity.** 
 

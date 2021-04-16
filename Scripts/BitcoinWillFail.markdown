@@ -6,7 +6,8 @@ n/a
 ![Image](/Thumbnails/Bitcoin.jpg)
 
 ### Music
-links
+
+I need some poppin music thats also chill like Vsauce
 
 ### Sources
 
@@ -29,11 +30,13 @@ links
 ### Working Script
 
 **camera, gimble, Scissers, balloon, pen, bitcoin, mask, record player**
+**Slow-mo**
 **Showing off bitcoin in hand**
 **Threatened with sissors**
 **Cut with scissors**
 **Sitting on a record player**
 **Sitting in a mask**
+**Sitting in mold**
 **Blow up ballon with "$80 billion" written on it**
 
 **Brian standing and speaking into the camera. Speaking with authenticity.** 
@@ -73,15 +76,21 @@ How do you make money off money?
 The answer? You don't. You make money off debt.
 Lighting network is the sidechain solution where bitcoins sit in a vault between nodes with IOUs for bitcoin being traded in its place.
 Its free to trade IOUs between nodes but that means we aren't trading money anymore!
+
+**Threaten with scissors**
+
 This isn't what we were promised! 
 
-**Gesture with sissors**
+**Cut with scissors**
 
 To solve blockchain scaling issues lightning network strips away the blockchain! 
 
-**clip from that one video**
+**clip from that one video, 7**
 
 It was a feature, not a bug! 
+It was a feature, not a bug! 
+
+**Head touching top chest at bottom of frame**
 
 If you want to use bitcoin as an exchange the only reasonable option would be to use the lightning network, so most bitcoins don't actually move anywhere. 
 Not using a cryptocurrecy is not the solution to making the cryptocurrency better. Thats avoiding the problem, or creating a problem depending on your perspective.
@@ -91,12 +100,15 @@ Due to the law of supply and demand, as the number of bitcoins created from each
 
 Heres what ray dalio said in a recent article:
 
+**Grey out to 50% and type text as read from paper in my hand.
+
 > I should clarify what I said about its supply. Although Bitcoin is limited in supply, digital currencies are not limited in supply because new ones have come along and will continue to come along to compete with the supply of Bitcoin-like assets. Competition should, and competition will, play a role in determining Bitcoin and other cryptocurrency prices. In fact I assume that better ones will come along and displace this one because that is the way the evolution of everything works—i.e., new ways of doing things and new things always have and always will replace old ways of doing things and old things. Since the way Bitcoin works is fixed, it won’t be able to evolve and I presume that a better alternative will be invented and pass it by. 
 
 
-**Room zooms off to the lower third to reveal a shining bitcoin, the read off in a fun angelic voice each of the reasons bitcoin sails. Memes on stonks raising to the opper third**
+
 
 Competitivly bitcoin has fallen behind the pack with its only saving grace being **its brand recognition.** 
+**Room zooms off to the lower third to reveal a shining bitcoin, the read off in a fun angelic voice each of the reasons bitcoin sails. Memes on stonks raising to the opper third**
 
 > Rising inflation and the potential for even more stimulus continues to push people to safe-haven assets.
 > Increased adoption from payment applications like PayPal will give far more people easy access to cryptocurrency.

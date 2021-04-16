@@ -47,11 +47,9 @@ I need some poppin music thats also chill like Vsauce
 
 **Blow up ballon with "$80 billion" written on it**
 
-**Brian standing and speaking into the camera. Speaking with authenticity.** 
+**Brian standing and speaking into the camera. Speaking with authenticity. The whole script.** 
 
 Does the institutional adoption of bitcoin by big players like blackstone, morgan stanley, Tesla, and paypal signal the new age of effortless money transfer or does it show that bitcoin has been corrupted by big money forces and become the evil is sought to cure? 
-
-Maybe a better question is why is bitcoin's value going up when wider adoption makes the network worse? Is it speculation? 
 
 **Showing off bitcoin in hand**
 
@@ -59,11 +57,11 @@ Bitcoin is the original cryptocurrency and that cements it in peoples minds as t
 
 **Sitting on a record player**
 
-If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion, and we also have other cryptocurrencies to choose.
+If you didn't listen to it on vinyl you didn't listen to it. Which is obviously absurd, we have infinite music at our discretion
 
 **Crypto balls, like country balls, reletive sizes and them looking at each other**
 
-However bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering perfect solutions to our online currency problem.
+and now bitcoin is objectivly the worst currency of the bunch with new players like Cardano and IOTA offering perfect solutions to our online currency problems.
 
 **Words with icons to represent them, revealed as I say the words**
 

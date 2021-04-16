@@ -28,7 +28,7 @@ links
 
 ### Working Script
 
-**Sissers, camera, balloon, pen**
+**Scissers, camera, balloon, pen**
 
 **Brian standing and speaking into the camera. Speaking with authenticity.** 
 
@@ -36,7 +36,7 @@ Does the institutional adoption of bitcoin by big players like blackstone, morga
 
 Maybe a better question is why is bitcoin's value going up when wider adoption makes the network worse? Is it speculation? 
 
-**showing off bitcoin**
+**Showing off bitcoin in hand**
 
 Bitcoin is the original cryptocurrency and that cements it in peoples minds as the one true cryptocurrency. 
 

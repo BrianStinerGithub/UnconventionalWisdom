@@ -1,5 +1,5 @@
 ### Youtube Link ###
-n/a
+https://www.youtube.com/watch?v=VGxJQIMwRYc
 
 # Bitcoin will fail within 10 years
 
